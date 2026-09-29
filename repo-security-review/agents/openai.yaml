@@ -1,0 +1,3 @@
+interface:
+  display_name: "Repository Security Review"
+  short_description: "Find evidence-backed security issues in code repositories"
